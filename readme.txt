@@ -1,3 +1,9 @@
+#Heading1 This code tries to implement a reliable sliding window protocol for data transfer between client and server in C language using Unix Socket APIs.
+##Heading2 The sockets used are of UDP type.
+###HEading3 The task performed is of reading data from a file at the client side and then transmitting that data to the server side and writing that data into another file at the server side.
+
+
+
 Steps to be followed to run client.c and server.c on two seperate Terminals
 
 Step 1 - Initially compile the file server.c by using command
