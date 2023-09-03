@@ -2,7 +2,7 @@ This code tries to implement a reliable sliding window protocol for data transfe
 
 The sockets used are of UDP type.
 
-The task performed is of reading data from a file at the client side and then transmitting that data to the server side and writing that data into another file at the server side.
+The task performed is of reading data from a file at the client side and then transmitting that data to the server side and writing it into another file.
 
 
 
